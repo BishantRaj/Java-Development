@@ -1,0 +1,4 @@
+autoPropose=true
+autoProposeCode=.@(\#&$abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+eclipse.preferences.version=1
+suggestionStrategy=Lax

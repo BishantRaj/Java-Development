@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+D:\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1979439481.index
+\firststsproject\src\main\java
+D:\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2492127216.index
+\reddy_web\src\main\java
+D:\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2053212004.index
+\reddy_web\src\main\java
+D:\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\689969854.index
+\reddy_jpa\src\main\java
+D:\springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\701734640.index
+\reddy_jpa-1\src\main\java
